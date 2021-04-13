@@ -1,0 +1,87 @@
+.readme{
+    text-align: center;
+    border-top: 3px solid black;
+    margin-top:50px;
+}
+#webGLCanvas{
+    width: 100%;
+    height: 600px;
+}
+.vertexInfoBox{
+    width:100%;
+}
+.modal-dialog{
+    max-width: 100%;
+}
+.modal-content{
+    background-color: transparent;
+}
+.modal-body{
+    padding:0px;
+}
+.containerAlign{
+    background-color: transparent;
+    padding-top: 50px;
+}
+.itemContainer{
+    overflow: hidden;
+    height: 600px;
+    width: 100%;
+}
+.mouseController{
+    position:absolute;
+    left : 0px;
+    width: 100%;
+    height:600px;
+    background-color: transparent;
+    z-index:100;
+}
+.list1{
+    overflow: hidden;
+    position:absolute;
+    margin:2px;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+.list2{
+    overflow: hidden;
+    position:absolute;
+    margin:2px;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+.list3{
+    overflow: hidden;
+    position:absolute;
+    margin:2px;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+.list4{
+    overflow: hidden;
+    position:absolute;
+    margin:2px;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+.list5{
+    overflow: hidden;
+    position:absolute;
+    margin:2px;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+.list6{
+    overflow: hidden;
+    position:absolute;
+    margin:2px;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+.list7{
+    overflow: hidden;
+    position:absolute;
+    margin:2px;
+    border: 2px solid black;
+    border-radius: 3px;
+}

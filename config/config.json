@@ -1,0 +1,10 @@
+{
+    "development" : {
+        "username" : "postgres",
+        "password" : "",
+        "database" : "postgis_default",
+        "host" : "127.0.0.1",
+        "dialect" : "postgres",
+        "operatorAliases" : false
+    }
+}
